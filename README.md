@@ -120,10 +120,11 @@ Refreshed daily from my public repositories.
 
 ## 📊 GitHub stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=uniskela&show_icons=true&hide_border=true&theme=transparent)](https://github.com/uniskela)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uniskela&layout=compact&hide_border=true&theme=transparent)](https://github.com/uniskela?tab=repositories)
+<!-- STATS:START -->
+**7** public projects · **6** ⭐ stars · Languages: `Python` ×3 · `TypeScript` ×3 · `JavaScript` ×1
+<!-- STATS:END -->
 
-Stats cover public repositories only.
+Counts cover my own public repositories only (no forks), updated daily.
 
 ## 🤝 Open source & collaboration
 
