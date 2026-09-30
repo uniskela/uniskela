@@ -7,7 +7,7 @@ owner="uniskela"
 list=$(gh api "users/${owner}/repos?type=public&sort=pushed&per_page=100" --jq '
   [.[] | select(.private == false and .fork == false and .archived == false and .name != "'"${owner}"'")]
   | .[:5][]
-  | "| [**\(.name)**](\(.html_url)) | \(.description // "—") | \(.pushed_at[:10]) |"')
+  | "| [**\(.name)**](\(.html_url)) | \(.description // "—") | \(.pushed_at[:10] | gsub("-"; "‑")) |"')
 block=$(printf '<!-- RECENT:START -->\n| Repository | Description | Last push |\n| --- | --- | --- |\n%s\n<!-- RECENT:END -->' "$list")
 BLOCK="$block" perl -0pi -e 's/<!-- RECENT:START -->.*?<!-- RECENT:END -->/$ENV{BLOCK}/s' README.md
 
