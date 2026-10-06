@@ -138,7 +138,7 @@ My development workflow includes **Orca**, **Claude**, **Codex**, and **Cursor**
 
 I use these services as part of running my projects:
 
-- [**HostHatch**](https://cloud.hosthatch.com/a/5578) — VPS hosting.
+- [**HostHatch**](https://cloud.hosthatch.com/a/5578) — VPS hosting for my development environment.
 - [**Proton**](https://pr.tn/ref/6GQH654V) — email, VPN, and cloud storage.
 
 **Affiliate disclosure:** I may earn a commission if you sign up through these links, which helps support my FOSS work.
