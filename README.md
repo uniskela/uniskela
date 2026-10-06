@@ -129,3 +129,16 @@ Counts cover my own public repositories only (no forks), updated daily.
 ## 🤝 Open source & collaboration
 
 Found a rough edge? Please open an issue in the relevant repository. Bug reports, feature suggestions, documentation improvements, and thoughtful contributions are all welcome.
+
+## 🛠️ Behind the projects
+
+My development workflow includes **Orca**, **Claude**, **Codex**, and **Cursor**.
+
+## 💛 Support my FOSS work
+
+I use these services as part of running my projects:
+
+- [**HostHatch**](https://cloud.hosthatch.com/a/5578) — VPS hosting.
+- [**Proton**](https://pr.tn/ref/6GQH654V) — email, VPN, and cloud storage.
+
+**Affiliate disclosure:** I may earn a commission if you sign up through these links, which helps support my FOSS work.
