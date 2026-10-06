@@ -111,11 +111,11 @@ Refreshed daily from my public repositories.
 <!-- RECENT:START -->
 | Repository | Description | Last push |
 | --- | --- | --- |
-| [**stack-manager**](https://github.com/uniskela/stack-manager) | Git-native workspace for managing self-hosted Docker Compose stacks, with safe editing, selective deployments and runtime awareness. | 2026‑09‑30 |
-| [**migraine-tracker**](https://github.com/uniskela/migraine-tracker) | Private, self-hosted migraine journal for tracking episodes, symptoms, medication and trends, with doctor-ready reports and secure backups. | 2026‑09‑30 |
-| [**codex-lb-rates**](https://github.com/uniskela/codex-lb-rates) | Codex-LB Rates — Home Assistant sensors for Codex-LB pools and ChatGPT/CLI 5-hour & weekly quotas | 2026‑09‑29 |
-| [**adhd-hub**](https://github.com/uniskela/adhd-hub) | Self-hosted source of truth for half-finished plans, migrations, and setups for coding agents. | 2026‑09‑29 |
-| [**UniHomelabDash**](https://github.com/uniskela/UniHomelabDash) | A self-hosted mobile-first homelab dashboard PWA for manual services, health checks, and future control-plane integrations. | 2026‑09‑29 |
+| [**codex-custom-assist**](https://github.com/uniskela/codex-custom-assist) | Codex Custom Assist — Home Assistant OpenAI-compatible conversation agent (Codex-LB and other Chat Completions backends) | 2026‑10‑06 |
+| [**UniHomelabDash**](https://github.com/uniskela/UniHomelabDash) | A self-hosted mobile-first homelab dashboard PWA for manual services, health checks, and future control-plane integrations. | 2026‑10‑06 |
+| [**adhd-hub**](https://github.com/uniskela/adhd-hub) | Self-hosted source of truth for half-finished plans, migrations, and setups for coding agents. | 2026‑10‑05 |
+| [**codex-lb-rates**](https://github.com/uniskela/codex-lb-rates) | Codex-LB Rates — Home Assistant sensors for Codex-LB pools and ChatGPT/CLI 5-hour & weekly quotas | 2026‑10‑05 |
+| [**stack-manager**](https://github.com/uniskela/stack-manager) | Git-native workspace for managing self-hosted Docker Compose stacks, with safe editing, selective deployments and runtime awareness. | 2026‑10‑04 |
 <!-- RECENT:END -->
 
 ## 📊 GitHub stats
