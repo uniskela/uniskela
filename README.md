@@ -121,7 +121,7 @@ Refreshed daily from my public repositories.
 ## 📊 GitHub stats
 
 <!-- STATS:START -->
-**8** public projects · **30** ⭐ stars · Languages: `TypeScript` ×4 · `Python` ×3 · `JavaScript` ×1
+**8** public projects · **31** ⭐ stars · Languages: `TypeScript` ×4 · `Python` ×3 · `JavaScript` ×1
 <!-- STATS:END -->
 
 Counts cover public, non-archived projects, including my maintained TS6 Manager fork. Updated daily.
