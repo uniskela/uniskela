@@ -111,7 +111,7 @@ Refreshed daily from my public repositories.
 <!-- RECENT:START -->
 | Repository | Description | Last push |
 | --- | --- | --- |
-| [**UniHomelabDash**](https://github.com/uniskela/UniHomelabDash) | A self-hosted mobile-first homelab dashboard PWA for manual services, health checks, and future control-plane integrations. | 2026‑11‑13 |
+| [**UniHomelabDash**](https://github.com/uniskela/UniHomelabDash) | A self-hosted mobile-first homelab dashboard PWA for manual services, health checks, and future control-plane integrations. | 2026‑11‑14 |
 | [**adhd-hub**](https://github.com/uniskela/adhd-hub) | Self-hosted source of truth for half-finished plans, migrations, and setups for coding agents. | 2026‑11‑08 |
 | [**stack-manager**](https://github.com/uniskela/stack-manager) | Git-native workspace for managing self-hosted Docker Compose stacks, with safe editing, selective deployments and runtime awareness. | 2026‑11‑08 |
 | [**adhd-hub-cursorskill**](https://github.com/uniskela/adhd-hub-cursorskill) | The Cursor Skill plugin for ADHD-Hub | 2026‑11‑04 |
@@ -121,7 +121,7 @@ Refreshed daily from my public repositories.
 ## 📊 GitHub stats
 
 <!-- STATS:START -->
-**8** public projects · **49** ⭐ stars · Languages: `TypeScript` ×4 · `Python` ×3 · `JavaScript` ×1
+**8** public projects · **50** ⭐ stars · Languages: `TypeScript` ×4 · `Python` ×3 · `JavaScript` ×1
 <!-- STATS:END -->
 
 Counts cover public, non-archived projects, including my maintained TS6 Manager fork. Updated daily.
