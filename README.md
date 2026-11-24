@@ -111,7 +111,7 @@ Refreshed daily from my public repositories.
 <!-- RECENT:START -->
 | Repository | Description | Last push |
 | --- | --- | --- |
-| [**stack-manager**](https://github.com/uniskela/stack-manager) | Git-native workspace for managing self-hosted Docker Compose stacks, with safe editing, selective deployments and runtime awareness. | 2026‑11‑23 |
+| [**stack-manager**](https://github.com/uniskela/stack-manager) | Git-native workspace for managing self-hosted Docker Compose stacks, with safe editing, selective deployments and runtime awareness. | 2026‑11‑24 |
 | [**codex-lb-rates**](https://github.com/uniskela/codex-lb-rates) | Codex-LB Rates — Home Assistant sensors for Codex-LB pools and ChatGPT/CLI 5-hour & weekly quotas | 2026‑11‑22 |
 | [**codex-custom-assist**](https://github.com/uniskela/codex-custom-assist) | Codex Custom Assist — Home Assistant OpenAI-compatible conversation agent (Codex-LB and other Chat Completions backends) | 2026‑11‑22 |
 | [**adhd-hub**](https://github.com/uniskela/adhd-hub) | Self-hosted source of truth for half-finished plans, migrations, and setups for coding agents. | 2026‑11‑22 |
